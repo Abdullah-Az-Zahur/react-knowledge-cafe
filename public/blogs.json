@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/date1_cover.jpg",
+        "title": "The Enchanted Evening",
+        "author": "Amanda Lovegood",
+        "author_img": "https://example.com/amanda_lovegood.jpg",
+        "posted_date": "2024-03-14",
+        "reading_time": 30,
+        "hashtags": [
+            "romance",
+            "magic",
+            "adventure"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://example.com/date2_cover.jpg",
+        "title": "Midnight Serenade",
+        "author": "Nicholas Dreamweaver",
+        "author_img": "https://example.com/nicholas_dreamweaver.jpg",
+        "posted_date": "2024-03-12",
+        "reading_time": 45,
+        "hashtags": [
+            "music",
+            "mystery",
+            "romance"
+        ]
+    },
+    {
+        "id": 3,
+        "cover": "https://example.com/date3_cover.jpg",
+        "title": "Under the Starlit Sky",
+        "author": "Elena Moonbeam",
+        "author_img": "https://example.com/elena_moonbeam.jpg",
+        "posted_date": "2024-03-10",
+        "reading_time": 25,
+        "hashtags": [
+            "night",
+            "stars",
+            "love"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/date4_cover.jpg",
+        "title": "Secret Garden Rendezvous",
+        "author": "Jonathan Whisperwood",
+        "author_img": "https://example.com/jonathan_whisperwood.jpg",
+        "posted_date": "2024-03-08",
+        "reading_time": 40,
+        "hashtags": [
+            "nature",
+            "secret",
+            "romance"
+        ]
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/date5_cover.jpg",
+        "title": "Moonlit Picnic",
+        "author": "Isabella Stardust",
+        "author_img": "https://example.com/isabella_stardust.jpg",
+        "posted_date": "2024-03-06",
+        "reading_time": 35,
+        "hashtags": [
+            "moon",
+            "picnic",
+            "love"
+        ]
+    }
+]
