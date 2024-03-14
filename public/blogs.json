@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "cover": "https://example.com/date1_cover.jpg",
+        "cover": "https://i.ibb.co/cD2hP4C/kenny-eliason-3-GZNPBLIm-Wc-unsplash.jpg",
         "title": "The Enchanted Evening",
         "author": "Amanda Lovegood",
-        "author_img": "https://example.com/amanda_lovegood.jpg",
+        "author_img": "https://i.ibb.co/BzsfpLS/1.png",
         "posted_date": "2024-03-14",
         "reading_time": 30,
         "hashtags": [
@@ -15,10 +15,10 @@
     },
     {
         "id": 2,
-        "cover": "https://example.com/date2_cover.jpg",
+        "cover": "https://i.ibb.co/cD2hP4C/kenny-eliason-3-GZNPBLIm-Wc-unsplash.jpg",
         "title": "Midnight Serenade",
         "author": "Nicholas Dreamweaver",
-        "author_img": "https://example.com/nicholas_dreamweaver.jpg",
+        "author_img": "https://i.ibb.co/BzsfpLS/1.png",
         "posted_date": "2024-03-12",
         "reading_time": 45,
         "hashtags": [
@@ -29,10 +29,10 @@
     },
     {
         "id": 3,
-        "cover": "https://example.com/date3_cover.jpg",
+        "cover": "https://i.ibb.co/cD2hP4C/kenny-eliason-3-GZNPBLIm-Wc-unsplash.jpg",
         "title": "Under the Starlit Sky",
         "author": "Elena Moonbeam",
-        "author_img": "https://example.com/elena_moonbeam.jpg",
+        "author_img": "https://i.ibb.co/BzsfpLS/1.png",
         "posted_date": "2024-03-10",
         "reading_time": 25,
         "hashtags": [
@@ -43,10 +43,10 @@
     },
     {
         "id": 4,
-        "cover": "https://example.com/date4_cover.jpg",
+        "cover": "https://i.ibb.co/cD2hP4C/kenny-eliason-3-GZNPBLIm-Wc-unsplash.jpg",
         "title": "Secret Garden Rendezvous",
         "author": "Jonathan Whisperwood",
-        "author_img": "https://example.com/jonathan_whisperwood.jpg",
+        "author_img": "https://i.ibb.co/BzsfpLS/1.png",
         "posted_date": "2024-03-08",
         "reading_time": 40,
         "hashtags": [
@@ -57,10 +57,10 @@
     },
     {
         "id": 5,
-        "cover": "https://example.com/date5_cover.jpg",
+        "cover": "https://i.ibb.co/cD2hP4C/kenny-eliason-3-GZNPBLIm-Wc-unsplash.jpg",
         "title": "Moonlit Picnic",
         "author": "Isabella Stardust",
-        "author_img": "https://example.com/isabella_stardust.jpg",
+        "author_img": "https://i.ibb.co/BzsfpLS/1.png",
         "posted_date": "2024-03-06",
         "reading_time": 35,
         "hashtags": [
